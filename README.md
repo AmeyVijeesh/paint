@@ -12,6 +12,11 @@ An amazing, complete paint app made using Pyqt5
 - save the file
 - clear the canvas
 
+# Todo:
+- MS Paint app compatiblity
+- Share file
+- Screenshot tool within the app.
+
 # 
 
 Thank you! 
